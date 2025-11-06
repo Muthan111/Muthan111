@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Muad Thaha
 
-<!--
-**Muthan111/Muthan111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Software Engineer  | 💻 Backend Developer 
+🚀 Building real-time AI systems and backend architectures  
 
-Here are some ideas to get you started:
+### 💡 About Me
+Motivated final semester Software Engineering student with hands-on experience in backend development and AI integration. Specialized in FastAPI and NestJS, I enjoy designing scalable, efficient, and well-architected systems. I’ve worked on projects ranging from real-time speech analysis to data visualization with Prometheus and Grafana, and I’m always eager to explore how AI can enhance everyday human experiences
+### 🧠 Tech Stack
+`Python` • `FastAPI` • `NestJS` • `MongoDB` • `Whisper AI` • `Prometheus` • `Grafana` • `Loki`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with Me
+- [Portfolio](https://muthan111.github.io/ProjectPortfolio/)
+- [LinkedIn](www.linkedin.com/in/muhammad-thaha-417906200)
+- [Email](muadthaha@gmail.com)
+
+---
+⭐️ *“Engineering is not just coding — it’s architecture for reality.”*
