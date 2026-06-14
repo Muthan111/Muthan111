@@ -1,12 +1,22 @@
 # Hi there, I'm Muhammad Muad Thaha
 
 🎯 Software Engineer  | 💻 Backend Developer 
-🚀 Building real-time AI systems and backend architectures  
+🚀 Interested in backend engineering, cloud systems, and AI integrations  
 
 ### 💡 About Me
-Motivated final semester Software Engineering student with hands-on experience in backend development and AI integration. Specialized in FastAPI and NestJS, I enjoy designing scalable, efficient, and well-architected systems. I’ve worked on projects ranging from real-time speech analysis to data visualization with Prometheus and Grafana, and I’m always eager to explore how AI can enhance everyday human experiences
+Fresh Graduate Software Engineer from Sunway University, Malaysia, specializing in Full-Stack and Backend Development.
+
+I enjoy designing and building scalable backend systems using TypeScript and Python, with a focus on clean architecture, APIs, databases, testing, and cloud-native development.
+
+Currently exploring DevOps practices, observability, and distributed systems.
 ### 🧠 Tech Stack
-`Python` • `FastAPI` • `NestJS` • `MongoDB` • `Whisper AI` • `Prometheus` • `Grafana` • `Loki`
+Python • TypeScript • FastAPI • NestJS • React
+MySQL • MongoDB • Redis
+
+Testing: Jest • Vitest • Supertest
+Observability: Prometheus • Grafana • Loki
+DevOps: Docker • CI/CD
+AI: Whisper AI
 
 ### 🌐 Connect with Me
 - [Portfolio](https://muthan111.github.io/ProjectPortfolio/)
@@ -14,4 +24,4 @@ Motivated final semester Software Engineering student with hands-on experience i
 - [Email](muadthaha@gmail.com)
 
 ---
-⭐️ *“Engineering is not just coding — it’s architecture for reality.”*
+
